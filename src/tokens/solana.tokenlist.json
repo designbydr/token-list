@@ -184616,6 +184616,18 @@
         "social-token"
       ]
     }
+
+    {
+      "chainId": 101,
+      "address": "F3Lw2XwGTtjCAwZj2WwADK98B7qsch28XCAugJ7jXqim",
+      "symbol": "NFL",
+      "name": "New Freedom.life",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/designbydr/crypto/refs/heads/main/Newfreedom.life.jpg",
+      "tags": [
+        "community-token"
+      ]
+    }
   ],
   "version": {
     "major": 0,
